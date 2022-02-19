@@ -1,0 +1,19 @@
+header{
+    background: gray;
+    font-family: "Segoe UI Semilight";
+    font-size: 30px;
+}
+.navbar span{
+    text-align: left;
+    margin-left: 20px;
+}
+.about{
+    display: flex;
+    justify-content: center;
+    margin-left: 700px;
+    margin-outside: 100px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
