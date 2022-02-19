@@ -1,3 +1,7 @@
+body{
+    background: black;
+    color: white;
+}
 header{
     background: gray;
     font-family: "Segoe UI Semilight";
@@ -11,9 +15,13 @@ header{
     display: flex;
     justify-content: center;
     margin-left: 700px;
-    margin-outside: 100px;
+    padding-left: 45px;
 }
 a{
     text-decoration: none;
     color: white;
+}
+.top{
+    margin-top: 400px;
+    text-align: center;
 }
