@@ -110,7 +110,7 @@ iframe{
     text-transform: uppercase;
 }
 .piler_2{
-    margin: auto -140px;
+    margin: auto -150px;
     border: 6px solid #7922CC;
     border-radius: 30px;
     width: 120%;
@@ -125,9 +125,9 @@ iframe{
     letter-spacing: -1px;
     text-transform: uppercase;
     border-bottom: 1px solid blue;
-    width: 97%;
+    width: 85%;
     letter-spacing: -1px;
-    margin-left: 10px;
+    margin-left: 30px;
 }
 .br2_2{
     margin-top: 80px;
@@ -135,16 +135,16 @@ iframe{
     letter-spacing: -1px;
     text-transform: uppercase;
     border-bottom: 1px solid blue;
-    width: 97%;
+    width: 85%;
     letter-spacing: -1px;
-    margin-left: 10px;
+    margin-left: 30px;
 }.br3_3{
      margin-top: 80px;
      text-align: center;
      letter-spacing: -1px;
      text-transform: uppercase;
      border-bottom: 1px solid blue;
-     width: 97%;
+     width: 70%;
      letter-spacing: -1px;
-     margin-left: 10px;
+     margin-left: 60px;
  }
