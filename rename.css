@@ -102,7 +102,7 @@ iframe{
     margin-left: 60px;
 }
 .cont_2{
-    margin: -440px 900px;
+    margin: -440px 850px;
     width: 20%;
 }
 .sky_2{
@@ -110,7 +110,7 @@ iframe{
     text-transform: uppercase;
 }
 .piler_2{
-    margin: auto -150px;
+    margin: auto -145px;
     border: 6px solid #7922CC;
     border-radius: 30px;
     width: 120%;
@@ -120,7 +120,7 @@ iframe{
     font-size: 20px;
 }
 .br1_1{
-    margin-top: 80px;
+    margin-top: 55px;
     text-align: center;
     letter-spacing: -1px;
     text-transform: uppercase;
@@ -130,7 +130,7 @@ iframe{
     margin-left: 30px;
 }
 .br2_2{
-    margin-top: 27px;
+    margin-top: 55px;
     text-align: center;
     letter-spacing: -1px;
     text-transform: uppercase;
@@ -155,7 +155,7 @@ iframe{
      text-transform: uppercase;
  }
  .piler_3{
-     margin: auto -150px;
+     margin: auto -180px;
      border: 6px solid #7922CC;
      border-radius: 30px;
      width: 100%;
@@ -163,4 +163,34 @@ iframe{
      text-align: center;
      align-items: center;
      font-size: 20px;
+ }
+ .br4_4{
+     margin-top: 80px;
+     text-align: center;
+     letter-spacing: -1px;
+     text-transform: uppercase;
+     border-bottom: 1px solid blue;
+     width: 65%;
+     letter-spacing: -1px;
+     margin-left: 86px;
+ }
+ .br5_5{
+     margin-top: 85px;
+     text-align: center;
+     letter-spacing: -1px;
+     text-transform: uppercase;
+     border-bottom: 1px solid blue;
+     width: 65%;
+     letter-spacing: -1px;
+     margin-left: 90px;
+ }
+ .br6_6{
+     margin-top: 80px;
+     text-align: center;
+     letter-spacing: -1px;
+     text-transform: uppercase;
+     border-bottom: 1px solid blue;
+     width: 70%;
+     letter-spacing: -1px;
+     margin-left: 60px;
  }
