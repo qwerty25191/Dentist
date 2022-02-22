@@ -1,2 +1,0 @@
-# Dentist 
-* Jaasa
